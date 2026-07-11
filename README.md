@@ -8,7 +8,7 @@ Ele foi escrito de propósito com alguns problemas para você encontrar e corrig
 ## Estrutura
 
 ```
-sistema-notas/
+sistema-notas/ 
 ├── notas/
 │   ├── aluno.py      # Classe Aluno
 │   └── turma.py      # Classe Turma
