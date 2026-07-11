@@ -1,6 +1,7 @@
 import os  # noqa: F401 - deixei aqui por engano, voce vai encontrar isso!
 
 class Aluno:
+    
     """Representa um aluno com suas notas."""
 
     NOTA_MINIMA_APROVACAO = 5.0
